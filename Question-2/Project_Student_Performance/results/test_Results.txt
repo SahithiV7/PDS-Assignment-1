@@ -1,0 +1,24 @@
+Vis 1: It draws the percentage gender distribution information.
+==>There are 51.80% females and 48.20% males 
+
+Vis 2: It gives the Percentage Ethnicity Distribution.
+==>There are total of 5 classes and after visualization, group C has the highest number of students and second stands D follwed by B,E,A
+
+Vis 3: It gives the total males and females in each Ethnicity group
+==> Group A has 36 females and 53 males
+==> Group B has 104 females and 86 males
+==> Group C has 180 females and 139 males
+==> Group D has 129 females and 133 males
+==> Group E has 69 females and 71 males
+
+Vis 4: Number of students in each group, based on the Parental level of education
+==> The "some college" level of education has highest number of students in total(226) and "master's degree" has the least number of students(59).
+
+Vis 5: Percentage of Lunch type distribution.
+==> Standard type is 64.5% and free is 35.5%
+
+Vis 6: Distribution between Test preparaion course completion and number of students
+==> "none" has highest students than "completed"
+
+Vis 7: Average scores in math, reading and writing by completed and none status
+==> 

@@ -1,0 +1,23 @@
+Obsrvation 1: Performed correlation on Frailty data and Found the following results
+
+	1) Highest positive correlation coefficient: 0.5715249798799161
+	Variable pair with the highest positive correlation: ('Height', 'Weight')
+
+	2) Highest negative correlation coefficient: -0.4758668672668008
+	Variable pair with the highest negative correlation: ('Grip strength', 'Frailty')
+
+Observation 2: Checked for the outliers in the data
+
+	Outliers detected:
+	Height           False
+	Weight           False
+	Age              False
+	Grip strength    False
+	Frailty          False
+
+==>No outliers detected
+
+Observation 3: Performed p-test on the data taking the Frailty column
+output:	T-statistic: 0.0
+	P-value: 1.0
+==> so it is stating that there is no statistical evidence to support the presence of an effect or difference between the groups being compared, and any observed differences are likely due to random variation.
