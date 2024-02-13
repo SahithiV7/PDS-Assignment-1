@@ -20,5 +20,5 @@ Vis 5: Percentage of Lunch type distribution.
 Vis 6: Distribution between Test preparaion course completion and number of students
 ==> "none" has highest students than "completed"
 
-Vis 7: Average scores in math, reading and writing by completed and none status
-==> 
+Vis 7: Data Visualization between lunch types and Race
+==>  In no group number of students for Standard lunch type less than the free/reduced lunch type
